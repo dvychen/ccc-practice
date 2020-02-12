@@ -10,7 +10,7 @@ void printArr(int arr[], int length) {
     cout << endl;
 }
 
-int main() {
+int main() {    
     int N;
     cin >> N;
     int measurements[N];
